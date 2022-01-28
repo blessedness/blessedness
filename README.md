@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=blessedness&show_owner=true&show_icons=true&theme=solarized-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=blessedness&show_owner=true&show_icons=true&count_private=true&theme=solarized-dark">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blessedness&layout=compact)](https://github.com/blessedness/github-readme-stats&layout=compact)
